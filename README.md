@@ -52,4 +52,12 @@ For Australian digital platforms aligning with W3C Standards and Australian Digi
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/au/
+* **Diagnostic Suite:** https://tools.tavardt.com/au/
+* **Technical Contact:** https://ag.tavardt.com/au/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
