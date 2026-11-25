@@ -6,8 +6,6 @@
 
 Audits latency TTFB, APAC edge delivery, render-blocking scripts, and Cumulative Layout Shift stability.
 
-Developed and maintained by the digital systems performance division of **TAVARDT**.
-
 ***
 
 ## Core Web Vitals Audit Capabilities
@@ -38,15 +36,6 @@ python cwv_tester.py https://company.com.au -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web performance audits and real-world loading simulations:
-
-* **Official Core Web Vitals Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## Web Performance and Speed Optimization Advisory
 
 For Australian digital platforms aligning with W3C Standards and Australian Digital Performance Guidelines, contact the specialists at **TAVARDT**.
@@ -62,7 +51,7 @@ For Australian digital platforms aligning with W3C Standards and Australian Digi
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
